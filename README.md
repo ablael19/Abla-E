@@ -15,10 +15,11 @@ ML web app that predicts student employability using academic scores, work exper
 
 ---
 
-### 🔹 Course Recommendation System
-**Technologies:** Python, NLP, Cosine Similarity, Flask  
-Recommends similar courses based on user input and text similarity.  
-[🔗 GitHub Repo](https://github.com/YOUR_USERNAME/course-recommender)
+### 🔹 [Music Recommendation System](https://github.com/ablael19/music-recommendation-system)
+**Technologies:** Python, Scikit-learn, Pandas, Cosine Similarity, Google Colab  
+ML model that recommends similar songs based on acoustic features and content filtering.  
+[🎧 Colab Notebook](https://colab.research.google.com/drive/1F4b3GT2doLDomNs1ZmM-paq97cWiNaFL?usp=sharing) | 📷 [See Recommendations Output](https://github.com/user-attachments/assets/01f59e3f-3499-4fc4-a02d-fff27c1d1fb6)
+
 
 ---
 

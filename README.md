@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Abla — Data Scientist & Industrial Engineer
 
-Welcome to my portfolio! I specialize in building end-to-end machine learning solutions, combining technical skill with business insight.
+Welcome to my portfolio! I specialize in building end-to-end machine learning solutions, combining technical skill with business insight.  
+Below are some of my most recent projects — a small sample from a broader body of work across data science, analytics, and optimization.
 
 ---
 

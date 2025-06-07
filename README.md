@@ -6,7 +6,7 @@ Welcome to my portfolio! I specialize in building end-to-end machine learning so
 
 ## 💼 Featured Projects
 
-### 🔹 [Campus Placement Predictor](https://employment-predictor.vercel.app/)
+### 🔹 [Student Placement Predictor](https://employment-predictor.vercel.app/)
 **Technologies:** Python, Scikit-learn, TensorFlow.js, Vercel  
 Predicts student placement outcomes based on academic and experience data. Includes an interactive ML web app.  
 [🔗 GitHub Repo](https://github.com/YOUR_USERNAME/campus-placement-predictor)

@@ -42,6 +42,6 @@ Segments customers into groups using unsupervised learning for better targeting.
 
 ## 📫 Let’s Connect
 
-📧 abla.your@email.com  
-🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/abla-e-1b05ab229/))  
+📧 a.ablaelmoussouli@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/abla-e-1b05ab229/)  
 🔗 [Upwork](https://www.upwork.com/freelancers/~0168217598a3510b2d)

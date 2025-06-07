@@ -6,10 +6,12 @@ Welcome to my portfolio! I specialize in building end-to-end machine learning so
 
 ## 💼 Featured Projects
 
-### 🔹 [Student Employment Predictor](https://employment-predictor.vercel.app/)
-**Technologies:** Python, Scikit-learn, TensorFlow.js, Vercel  
-Predicts student placement outcomes based on academic and experience data. Includes an interactive ML web app.  
-[🔗 GitHub Repo](https://github.com/YOUR_USERNAME/campus-placement-predictor)
+### 🔹 [Student Employment Predictor](https://github.com/ablael19/student-employment-predictor)
+**Technologies:** Python, Scikit-learn, TensorFlow.js, Flask, Next.js, Vercel, Google Colab  
+ML web app that predicts student employability using academic scores, work experience, and test results.  
+[🔗 Live App](https://employment-predictor.vercel.app/) | [🧪 Colab Notebook](https://colab.research.google.com/drive/13IslyktBxJ4ITePJZBG0xDu7nFIS3oPb)
+
+
 
 ---
 

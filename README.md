@@ -24,10 +24,11 @@ ML model that recommends similar songs based on acoustic features and content fi
 
 ---
 
-### 🔹 Online Payment Fraud Detection
-**Technologies:** Python, Scikit-learn, ML models  
-Detects fraudulent transactions using supervised ML techniques.  
-[🔗 GitHub Repo](https://github.com/YOUR_USERNAME/fraud-detection)
+### 🔹 [Online Payment Fraud Detection](https://github.com/ablael19/online-payment-fraud-detection)  
+**Technologies:** Python, Scikit-learn, XGBoost, Pandas, Matplotlib, Google Colab  
+Machine learning project to detect fraudulent online payments. Includes data preprocessing, class imbalance handling, and model comparison with Logistic Regression, Random Forest, and XGBoost.  
+[💻 Colab Notebook](https://colab.research.google.com/drive/1sKF4ZpoM7TcGMYny8DxiCGoaCH8fR-ct?usp=sharing) | 📊 [See Confusion Matrix](https://github.com/ablael19/online-payment-fraud-detection/blob/main/confusion_matrix_dark.png)
+
 
 ---
 

@@ -32,12 +32,7 @@ Machine learning project to detect fraudulent online payments. Includes data pre
 
 ---
 
-### 🔹 Customer Segmentation
-**Technologies:** Python, KMeans, PCA, Matplotlib  
-Segments customers into groups using unsupervised learning for better targeting.  
-[🔗 GitHub Repo](https://github.com/YOUR_USERNAME/customer-segmentation)
 
----
 
 ## 🛠 Tools & Skills
 
